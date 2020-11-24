@@ -1,0 +1,5 @@
+.search-result{
+  margin-top: 50px;
+  width: 50%;
+height: 50%;
+  grid-template: auto / repeat;
